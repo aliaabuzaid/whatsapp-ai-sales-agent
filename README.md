@@ -90,7 +90,9 @@ The goal is to reduce manual customer-service and sales work while keeping busin
 ```
 
 ---
+## 🖼️ Architecture Diagram
 
+![RAG Business Assistant Architecture](docs/docs:whatsapp-sales-agent-architecture.png)
 ## 🧠 AI Agent
 
 The AI Agent acts as the conversational layer between the customer and the business systems.
